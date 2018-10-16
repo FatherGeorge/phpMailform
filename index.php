@@ -13,7 +13,7 @@
         $msg = 'Please use a valid email';
         $msgClass = 'alert-danger';
       } else {
-        $toEmail = 'support@something.com';
+        $toEmail = 'enclaveunit@gmail.com';
         $subject = 'Contact request from' .$name;
         $body = "<h2>Contact request</h2>
                  <h4>Name</h4><p>.$name.</p>
